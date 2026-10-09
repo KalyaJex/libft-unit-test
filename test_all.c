@@ -1,0 +1,8 @@
+#include "test_isalpha.c"
+#include "test_isalnum.c"
+#include "test_isdigit.c"
+#include "test_isascii.c"
+#include "test_isprint.c"
+#include "test_atoi.c"
+#include "test_bzero.c"
+#include "test_memset.c"
